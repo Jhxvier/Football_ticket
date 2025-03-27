@@ -2,7 +2,7 @@
 //AUTHOR: HENRRY JAVIER LEIBA CALERO
 
 /* 
-    Graphical interface made in Java for the creation of an application to buy feed for quail.
+    Graphical interface made in Java for the creation of an application to buy postals.
 */
 
 package tarea1_henrryleiba;
